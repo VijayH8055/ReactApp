@@ -2,9 +2,9 @@ import React from "react";
 
 function Footer() {
   return (
-    <header>
+    <footer>
       <p>CopyRight by ShapeAI @ {new Date().getFullYear()}</p>
-    </header>
+    </footer>
   );
 }
 
